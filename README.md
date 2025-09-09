@@ -1,5 +1,5 @@
 🌎 [**Website**](https://abeer-malik.vercel.app): Find all my projects
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=F74295&background=68FFF600&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%91%8B;I'm+Abeer+Malik;CS+@+TMU;Full-stack+web+dev+in+progress...;Building+things+I+wish+existed;Currently+debugging+life" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=F74295&background=68FFF600&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%91%8B;I'm+Abeer+Malik;CS+@+TMU;Full-stack+dev+in+progress...;Building+things+I+wish+existed;Currently+debugging+life" alt="Typing SVG" /></a>
 📬 [**Email**](malikabeer23@gmail.com): Contact me
 
 ---
