@@ -8,5 +8,5 @@
 nickname: "abeermalik"
 loves: ["fighting CSS and winning", "breaking things to fix them", "rubber duck debugging", "good drinks"]
 skills: ["React", "JS", "Java", "Python", "HTML/CSS", "and more..."]
-currently_building: "AI Jarvis 🤖"
+working_as: "Full-stack SWE @ Jitto"
 ```
